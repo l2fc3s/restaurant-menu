@@ -10,11 +10,6 @@ public class Menu {
         trackDate = date.toString();
         return date.toString();
     }
-    // check date function?
-    // have variable that is updated with recent date
-    // variable can be updated with method
-    // method can get called maybe in constuctor?
-    // variable with date can be printed in Main method
 
     public static void main (String[] args) {
         String[] categories = {"appetizer", "main", "course", "dessert"};
